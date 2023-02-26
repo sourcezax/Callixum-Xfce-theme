@@ -30,13 +30,13 @@ First version
 - New colors (buttons,toolbars and text)
 -Removed artefacts on borders
 
-###Version 2.1
+### Version 2.1
 
 - Changed to darker colors on prelight buttons.
 - Unify the clicked buttons.
  
 
-##Version 2.2
+### Version 2.2
 
 - Renamed Callixum-v2 to Callixum 
 - Added new versions of this theme :
@@ -51,7 +51,7 @@ First version
 - Callixum-dark
 - Callixum-metal
 
-##2023
+### 2023
 2023 README.md for github
 
 
