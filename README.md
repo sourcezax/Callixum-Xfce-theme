@@ -7,13 +7,11 @@ License GPL V3(See http://www.gnu.org/licenses/gpl.html).
 2012 : Here is my first XFCE Theme from scratch, and I share it with you :)
 2023 : Here for memories. Note, i still use it on my laptop ;)
 
-## How to Install it?
+##How to Install it?
 ----------------------
 Just copy the content of the Callixum-theme folder (except this README file) to your usr/share/themes or your themes folder and Enjoy :)
 Compatible with XFCE 4.2+
 
-Note : You use themes at your own risk. You can corrupt / destroy your system by using themes.  
-THERE IS NO WARRANTY FOR THE THEMES. 
 -----------
 Version 2.2
 -----------
