@@ -8,6 +8,10 @@ License GPL V3(See http://www.gnu.org/licenses/gpl.html).
 
 2023 : Here for memories. Note, i still use it on my laptop ;)
 
+## Preview 
+
+![Screenshot](images/Callixum-demo.jpg)
+
 ## How to Install it?
 
 Just copy the content of the Callixum-theme folder (except this README file) to your usr/share/themes or your themes folder and Enjoy :)
